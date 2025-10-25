@@ -2,3 +2,4 @@
 repo github test-test
 new line from githubGUI
 waywa waywa
+ERROR
